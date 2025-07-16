@@ -28,14 +28,11 @@ This repository is being actively built. Star it to get notified of updates!
 - **Modern tooling** - UV package manager, FastAPI, async/await patterns
 - **Research-backed** - Based on latest academic work and industry practices
 
-## 🔗 Related Projects
-- 🏢 **Enterprise Consulting**: [bytestacklabs-agents.com](https://bytestacklabs-agents.com)
-
 ## 🔔 Get Updates
 ⭐ **Star this repo** to be notified when content is ready!
 
 ## 👨‍💻 About
-Created by [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3) | ByteStack Labs  
+Created by [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 *Making multi-agent systems accessible to developers worldwide*
 
 ---
