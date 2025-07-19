@@ -3,7 +3,7 @@
 
 A space for comprehensive learning of agent-based software architectures, from reactive agents to advanced AI-driven multi-agent systems.
 
-**🏢 A ByteStackLabs Learning Space**
+**🏢 A ByteStack Labs Learning Space**
 
 ## 🚧 Status: Under Active Development
 Star it to get notified of updates!
@@ -18,7 +18,7 @@ Star it to get notified of updates!
 ### 🛠️ Frameworks & Technologies
 - **SPADE** (Smart Python Agent Development Environment)
 - **Mesa** (Agent-based modeling framework)
-- **ByteStackLabs Custom Architectures** with modern Python patterns
+- **ByteStack Labs Custom Architectures** with modern Python patterns
 - **Interactive visualizations** and web interfaces
 - **Production-ready examples** with testing and monitoring
 
@@ -28,19 +28,19 @@ Star it to get notified of updates!
 - **Real-world applications** - IoT systems, trading bots, distributed coordination
 - **Modern tooling** - UV package manager, FastAPI, async/await patterns
 - **Research-backed** - Based on latest academic work and industry practices
-- **ByteStackLabs Quality** - Professional-grade code and architecture
+- **ByteStack Labs Quality** - Professional-grade code and architecture
 
 ## 🔔 Get Updates
 ⭐ **Star this repo** to be notified when content is ready!
 
 ## 👨‍💻 About
-Created by [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3) | **ByteStackLabs**
+Created by [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3) | **ByteStack Labs**
 
 Senior Full-Stack Software Engineer • 10+ Years Experience • MS AI/ML • MS CS (in progress)
 
 *Making multi-agent systems accessible to developers worldwide*
 
-### 🏢 ByteStackLabs
+### 🏢 ByteStack Labs
 Professional multi-agent systems consulting and advanced AI solutions.  
 **Learn More**: [bytestacklabs.com](https://bytestacklabs.com)
 
